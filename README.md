@@ -1,5 +1,8 @@
 
 ### Hi there 👋
+💬 Ask me about any thing related to computer science.
+
+
 
 ##<!--
 **AbdulSamad/Imabdulsamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
