@@ -1,5 +1,4 @@
-
-### Hi there 👋
+ Hi there 👋
 💬 Ask me about any thing related to computer science.
 
 - 🔭 I’m currently working on JavaScript ...
@@ -8,5 +7,4 @@
 - 📫 How to reach me: imabdulsamad38@gmail.com...
 - 😄 Pronouns: Sam...
 
--->##
 
