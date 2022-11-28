@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Abdul Samad, a full-time frontend  developer 👨‍💻 working since 2021 🚀</div>  
+### <div align="left">I'm Abdul Samad, a full-time frontend  developer 👨‍💻 working since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on React Native  
