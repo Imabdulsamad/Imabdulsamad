@@ -7,13 +7,13 @@
 ### <div align="left">I'm Abdul Samad, a full-time frontend  developer 👨‍💻 working since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on React Native  
+- 🔭 I’m currently working on ReactJs  
   
 
 - 🌱 I’m currently learning Nodejs and express js  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to JavaScript 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
