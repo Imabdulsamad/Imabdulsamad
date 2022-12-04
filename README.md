@@ -3,6 +3,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />
+         font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=This+is+Ahmad+Ali+Khan;Software+Engineer;Backend+Developer;AI/ML+Enthusiast)
 </h1>
   <div align="center">
 
