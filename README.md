@@ -3,8 +3,13 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />
-         
-</h1>
+ </h1>
+ <h2 align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=This+is+Abdul+Samad;Software+Engineer;FrontEnd+Developer)](https://git.io/typing-svg)
+    </h2>
+
+
   <div align="center">
 
 </div>  
