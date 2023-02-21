@@ -17,18 +17,12 @@
 
 
 
-- 🔭 I’m currently working on ReactJs  
+- 🔭 I’m currently working on JavaScript  
   
 
-- 🌱 I’m currently learning Nodejs and express js  
+- 🌱 I’m currently learning React Js  
+   
   
-
-- ❓ Ask me about anything related to JavaScript 
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
 <br/>  
 
 ## Connect with me  
