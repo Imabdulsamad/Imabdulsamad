@@ -12,15 +12,10 @@
 
   <div align="center">
 
-</div>  
+</div>    
   
 
-
-
-- 🔭 I’m currently working on JavaScript  
-  
-
-- 🌱 I’m currently learning React Js  
+- 🌱 I’m currently working on React Js  
    
   
 <br/>  
