@@ -13,11 +13,7 @@
   <div align="center">
 
 </div>    
-  
-
-- 🌱 I’m currently working on React Js  
-   
-  
+I am passionate about crafting seamless and efficient web applications, utilizing the power of React to create engaging user experiences. Let's collaborate on projects that demand precision and elevate your digital presence with the professional touch that React affords. Looking forward to creating exceptional user interfaces together! 🚀✨ 
 <br/>  
 
 ## Connect with me  
